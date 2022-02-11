@@ -31,7 +31,16 @@ Database Technologies ~ Veritabanı Teknolojileri
 
 # Work Experiences 🏠
 
-## **Günenç Yazılım** *Current*
+## **Latori GmbH** *Current*
+
+* Remote
+* Frontend Developer
+* Shopify
+* React
+* Ruby
+* Graphql
+
+## **Günenç Yazılım**
 
 * Remote
 * Mobile and Web Fullstack
